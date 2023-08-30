@@ -10,7 +10,7 @@ let cardEl = document.querySelector("#cards-el");
 
 
 let player = {
- name : prompt(),
+ name : prompt("please enter your name"),
 chips : 100
 }
 
